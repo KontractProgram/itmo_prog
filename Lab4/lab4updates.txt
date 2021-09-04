@@ -1,0 +1,10 @@
+updates on lab 4
+take out interface -(applies to scooperfield[65-72] and main[12-19]
+	
+	Anonymous class (main [7, 26 to 33])
+	
+	Static nested class (Krabs [25-34]),(main[5,9]
+	
+	checked exception (Scooperfield [16-28])
+	
+	unchecked exception (Scooperfield [74-86]
